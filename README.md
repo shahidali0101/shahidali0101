@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/banner.png" alt="Data Analyst Banner" width="100%">
+  <img src="3417764.jpg" width="100%">
 </p>
 
 # Hi there 👋, I'm Shahid Ali  
