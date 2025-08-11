@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="3417764.jpg" width="100%">
+  <img src="hello.png" width="50%">
 </p>
 
-# Hi there 👋, I'm Shahid Ali  
+
 ### Aspiring Data Analyst | Learning Power BI, SQL, Python, and Excel  
 
 ---
